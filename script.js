@@ -4,7 +4,6 @@ var color2 = document.querySelector(".color2");
 var body  = document.getElementById("gradient");
 var button = document.querySelector("button");
 
-
 color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input", setGradient);
